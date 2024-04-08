@@ -1,0 +1,6 @@
+name: gpu
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - torch
